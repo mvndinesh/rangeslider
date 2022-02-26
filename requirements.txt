@@ -1,0 +1,4 @@
+--extra-index-url https://pypi-reader-local:AP6djX6X4caQ5qHVcqS2MDjTaiVSwbiBopuZAf@sdc.jfrog.io/artifactory/api/pypi/pypi/simple
+pre-commit
+pytest-orion>=0.136.7
+python-dateutil==2.8.1
